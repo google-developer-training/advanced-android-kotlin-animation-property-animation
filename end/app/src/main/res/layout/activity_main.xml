@@ -71,7 +71,7 @@
             app:layout_constraintEnd_toEndOf="parent" />
 
     <Button
-            android:text="Background Color"
+            android:text="@string/sky_color"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="@+id/translateButton"
