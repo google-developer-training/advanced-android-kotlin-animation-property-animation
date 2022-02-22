@@ -1,7 +1,7 @@
 Android Property Animation
 ================================
 ## About
-This app is for the [Android Property Animation](Todo link) codelab.
+This app is for the [Android Property Animation](https://developer.android.com/codelabs/advanced-android-kotlin-training-property-animation/index.html) codelab.
 
 ## begin
 The **begin** folder is the starting point of the codelab.
